@@ -12,7 +12,7 @@ The programmer is compatible with Windows, MacOS and Linux.
 
 
 ![alt text](FredISP-Panelized-Top.png "FredISP PCB")
-![alt text](FredISP.png "FredISP 3D Model")
+![alt text](fredisp.png "FredISP 3D Model")
 
 ##### Project structure:
 
