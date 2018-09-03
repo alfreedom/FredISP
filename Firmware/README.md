@@ -10,7 +10,7 @@ To install type "make install".
 
 Note: you need to have installed the avr-gcc toolchain and the avrdude software.
 
-The firmware run	 at 16 Mhz, but the frequency could be changed in the Makefile.
+The firmware run at 16 Mhz, but the frequency could be changed in the Makefile.
 
 ----
 
